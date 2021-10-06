@@ -14,7 +14,7 @@
 
 <br />
 
-I watch a lot of tech videos (unboxing, gadgets reviews and cars) on <img src="assets/youtube.png" width= "13"> YouTube, I'm also a part-time photographer who takes pictures with my <img src="assets/smartphone.png" width= "13">phone and <img src="assets/camera.png" width= "13">camera. I'm a Ui/Ux Designer, I'm in love minimalism and good designs.
+I watch a lot of tech videos (unboxing, gadgets reviews and cars) on  YouTube, I'm also a part-time photographer who takes pictures with my phone and camera. I'm a Ui/Ux Designer, I'm in love minimalism and good designs.
 
 📫 You can reach me at mrsofua@gmail.com
 
